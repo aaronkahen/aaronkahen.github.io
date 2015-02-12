@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+	color: brown;
+}
+
+h2 {
+    color: navy;
+    margin-left: 20px;
+}
+
+p {
+	margin-left: 10px;
+}
